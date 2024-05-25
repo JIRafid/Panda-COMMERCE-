@@ -1,5 +1,10 @@
+.container{
+    margin-bottom: 100px;
+}
+
 .ob{
     background-color: #fceae8;
+    border-radius: 10px;
 }
 
 .carousel-item{
@@ -40,6 +45,10 @@
     color: white;
 }
 
+.categories{
+    padding-top: 50px;
+}
+
 .categories img{
     width: 100px;
 }
@@ -62,9 +71,6 @@ h6{
     color: gray;
 }
 
-.container{
-    padding: 50px;
-}
 footer{
     text-align: center;
 }
